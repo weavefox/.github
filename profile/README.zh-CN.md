@@ -1,4 +1,4 @@
-<img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> [English](https://github.com/weavefox) | 中文
+<img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> [English](https://github.com/weavefox/.github/blob/master/profile/README.md) | 中文
 
 <p align="center">
   <a href="https://github.com/weavefox">
