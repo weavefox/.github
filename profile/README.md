@@ -18,4 +18,4 @@
 
 ## ⛳️ How to Contribute
 
-Contributions to WeaveFox on GitHub are welcomed! Whether you have questions, concerns, or suggestions for improving AntV, please don't hesitate to reach out to us [here](https://github.com/weavefox).
+Contributions to WeaveFox on GitHub are welcomed! Whether you have questions, concerns, or suggestions for improving WeaveFox, please don't hesitate to reach out to us [here](https://github.com/weavefox).
