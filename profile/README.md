@@ -1,4 +1,4 @@
-<img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> English | [中文](https://github.com/weavefox/.github/blob/master/profile/README.zh-CN.md)
+<img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> English | [中文](https://github.com/weavefox/.github/blob/main/profile/README.zh-CN.md)
 
 <p align="center">
   <a href="https://github.com/weavefox">
@@ -18,4 +18,4 @@
 
 ## ⛳️ How to Contribute
 
-Contributions to WeaveFox on GitHub are welcomed! Whether you have questions, concerns, or suggestions for improving AntV, please don't hesitate to reach out to us [here](https://github.com/weavefox).
+Contributions to WeaveFox on GitHub are welcomed! Whether you have questions, concerns, or suggestions for improving WeaveFox, please don't hesitate to reach out to us [here](https://github.com/weavefox).
