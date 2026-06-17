@@ -15,6 +15,7 @@
 
 - **WeaveFox**: AI [coding](https://www.weavefox.cn/) 开发应用的新选择。
 - **Skyway**: 你的个人 AI 桌面应用，帮你释放思维和潜力。
+- **Awesome-OPC**: 收集和 OPC 一人公司相关的内容，包括政策，灵感，产品，有用的工具，资源等。
 
 ## ⛳️ How to Contribute
 
