@@ -15,6 +15,7 @@
 
 - **WeaveFox**: A new choice for developing applications, and [coding](https://www.weavefox.cn/) with AI.
 - **Skyway**: Your desktop personal AI assistant, helping you unleash your thoughts and potential.
+- **Awesome-OPC**: Collect OPC-related(One Person Companies 一人公司) content, including policies, inspiration, projects, tools, resources, etc.
 
 ## ⛳️ How to Contribute
 
